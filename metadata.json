@@ -1,0 +1,6 @@
+{
+  "name": "Career Quest",
+  "description": "An immersive RPG adventure that turns daily study sessions, learning paths, and todo lists into career-focused quests with leveling, streaks, and local synced leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
